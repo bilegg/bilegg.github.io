@@ -1,33 +1,6 @@
 {
-  "files": {
-    "main.css": "/static/css/main.898f4f1e.chunk.css",
-    "main.js": "/static/js/main.066542b6.chunk.js",
-    "main.js.map": "/static/js/main.066542b6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c32176f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c32176f8.js.map",
-    "static/js/2.2442f375.chunk.js": "/static/js/2.2442f375.chunk.js",
-    "static/js/2.2442f375.chunk.js.map": "/static/js/2.2442f375.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.898f4f1e.chunk.css.map": "/static/css/main.898f4f1e.chunk.css.map",
-    "static/js/2.2442f375.chunk.js.LICENSE.txt": "/static/js/2.2442f375.chunk.js.LICENSE.txt",
-    "static/media/FontAwesome.otf": "/static/media/FontAwesome.91f80bba.otf",
-    "static/media/LockScreenLogo.scale-200.png": "/static/media/LockScreenLogo.scale-200.0117cd7d.png",
-    "static/media/Speech On.wav": "/static/media/Speech On.b1eb5755.wav",
-    "static/media/SplashScreen.scale-200.png": "/static/media/SplashScreen.scale-200.b30cdc55.png",
-    "static/media/Square150x150Logo.scale-200.png": "/static/media/Square150x150Logo.scale-200.f4fc7409.png",
-    "static/media/Square44x44Logo.scale-200.png": "/static/media/Square44x44Logo.scale-200.422291d1.png",
-    "static/media/Square44x44Logo.targetsize-24_altform-unplated.png": "/static/media/Square44x44Logo.targetsize-24_altform-unplated.38549c0d.png",
-    "static/media/StoreLogo.png": "/static/media/StoreLogo.8b977f6e.png",
-    "static/media/Wide310x150Logo.scale-200.png": "/static/media/Wide310x150Logo.scale-200.3d4d1c28.png",
-    "static/media/background.png": "/static/media/background.6fb33752.png",
-    "static/media/homing.png": "/static/media/homing.1291de7a.png",
-    "static/media/settings-icon.png": "/static/media/settings-icon.3792cb2a.png",
-    "static/media/start-polishing.png": "/static/media/start-polishing.64530673.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.c32176f8.js",
-    "static/js/2.2442f375.chunk.js",
-    "static/css/main.898f4f1e.chunk.css",
-    "static/js/main.066542b6.chunk.js"
-  ]
+  "main.css": "static/css/main.ecdcbee0.css",
+  "main.css.map": "static/css/main.ecdcbee0.css.map",
+  "main.js": "static/js/main.0b35388b.js",
+  "main.js.map": "static/js/main.0b35388b.js.map"
 }
